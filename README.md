@@ -1,118 +1,43 @@
-# 📊 Sales & Profit Power BI Dashboard
+# Sales & Profit Power BI Dashboard
 
-# 📌 About This Project
+## About the Project
 
-This project is a Sales and Profit Analysis Dashboard created using Power BI and Excel.
+This project is an interactive Power BI dashboard created to understand sales and profit performance. It helps users easily view business performance and identify important trends from the data.
 
-The main purpose of this project is to understand sales performance, profit, products, categories, regions, and monthly business trends through an interactive dashboard.
+## Tools Used
 
-# 🎯 Project Objectives
-
-* Analyze total sales and total profit
-* Track overall business performance
-* Compare sales across different regions
-* Identify the best-performing products
-* Analyze profit by category
-* Understand monthly sales trends
-* Calculate profit margin
-* Present business information in an easy-to-understand dashboard
-
-# 🛠️ Tools Used
-
-* Microsoft Power BI
+* Power BI
 * Microsoft Excel
-* DAX
-* Data Cleaning
 * Data Visualization
-* Business Intelligence
+* Data Analysis
 
-# 📂 Dataset
-
-The dataset contains sample sales transactions with information such as:
-
-* Order ID
-* Order Date
-* Customer ID
-* Product
-* Category
-* Region
-* Quantity
-* Unit Price
-* Discount
-* Sales
-* Cost
-* Profit
-
-## 📊 Dashboard
-
-The dashboard includes:
-
-# Key Performance Indicators
+## What This Dashboard Shows
 
 * Total Sales
 * Total Profit
-* Total Orders
-* Total Quantity
-* Profit Margin
-
-# Visualizations
-
-* Monthly Sales Trend
+* Sales by Product
 * Sales by Region
-* Profit by Category
-* Top Products
-* Sales and Profit Analysis
+* Profit Trends
+* Business Performance
 
-# Filters
+## Key Insights
 
-* Date
-* Region
-* Category
-* Product
+The dashboard helps identify which products and regions are performing well and provides a clear view of sales and profit trends.
 
-🧮 DAX Measures
+## Dashboard
 
-The following measures were used in Power BI:
+Screenshots of the Power BI dashboard will be added here.
 
-```DAX
-Total Sales = SUM(Sales_Data[Sales])
+## Project Goal
 
-Total Cost = SUM(Sales_Data[Cost])
+The goal of this project is to turn raw business data into simple and useful visual information that can help in understanding business performance.
 
-Total Profit = SUM(Sales_Data[Profit])
+## Author
 
-Total Quantity = SUM(Sales_Data[Quantity])
+Akshitha
 
-Total Orders = DISTINCTCOUNT(Sales_Data[Order_ID])
 
-Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
-```
- #💡 Business Insights
 
-After completing the dashboard, the following areas can be analyzed:
-
-* Which region generates the highest sales?
-* Which category generates the highest profit?
-* Which products perform the best?
-* Which month has the highest sales?
-* What is the overall profit margin?
-* Which products or regions need improvement?
-
- 📸 Dashboard Preview
-
-Dashboard screenshots will be added here after completing the Power BI dashboard.
-
- 📁 Project Files
-
-* `Sales_Profit_PowerBI_Dataset.xlsx` — Sales dataset
-* `Sales_Profit_Dashboard.pbix` — Power BI dashboard
-* `dashboard-overview.png` — Dashboard screenshot
-
- 👩‍💻 Author
-
-**Akshitha Reddy**
-
-Aspiring Data Analyst
 
 Skills: Power BI | Excel | SQL | Python | Data Analytics
 
