@@ -25,8 +25,8 @@ This project is an interactive Power BI dashboard created to understand sales an
 The dashboard helps identify which products and regions are performing well and provides a clear view of sales and profit trends.
 
 ## Dashboard
-
-Screenshots of the Power BI dashboard will be added here.
+Here is a preview of the Power BI dashboard:
+![Sales and Profit Dashboard](Powerbi/dashboard.png)
 
 ## Project Goal
 
