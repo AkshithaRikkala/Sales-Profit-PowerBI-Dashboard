@@ -10,6 +10,18 @@ This project is an interactive Power BI dashboard created to understand sales an
 * Microsoft Excel
 * Data Visualization
 * Data Analysis
+## My Skills
+* Python
+* Java
+* C++
+* SQL
+* Power BI
+* Excel
+* Data Analysis
+* Machine Learning
+* HTML & CSS
+* Git & GitHub
+
 
 ## What This Dashboard Shows
 
